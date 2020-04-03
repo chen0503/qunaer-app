@@ -1,0 +1,184 @@
+{
+  "id": "1576590",
+  "name": "travel",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "travel_project图标",
+  "glyphs": [
+    {
+      "icon_id": "11710215",
+      "name": "新建事件单—刷新",
+      "font_class": "shuaxin",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "6475206",
+      "name": "凉亭",
+      "font_class": "liangting",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "13633197",
+      "name": "公寓",
+      "font_class": "gongyu",
+      "unicode": "e976",
+      "unicode_decimal": 59766
+    },
+    {
+      "icon_id": "9834303",
+      "name": "上箭头",
+      "font_class": "up-copy-copy",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "854589",
+      "name": "icon-竖杠",
+      "font_class": "iconshugang-copy",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "3167761",
+      "name": "去哪",
+      "font_class": "quna",
+      "unicode": "e797",
+      "unicode_decimal": 59287
+    },
+    {
+      "icon_id": "2946045",
+      "name": "时间",
+      "font_class": "shijian",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "4121259",
+      "name": "门票",
+      "font_class": "menpiao",
+      "unicode": "e757",
+      "unicode_decimal": 59223
+    },
+    {
+      "icon_id": "5373211",
+      "name": "下箭头",
+      "font_class": "arrow-left1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7846064",
+      "name": "点赞",
+      "font_class": "diancai1-copy",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "8516740",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "ed30",
+      "unicode_decimal": 60720
+    },
+    {
+      "icon_id": "9524399",
+      "name": "放大",
+      "font_class": "fangda",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "3788728",
+      "name": "更多下拉",
+      "font_class": "gengduoxiala",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "1248881",
+      "name": "喜欢",
+      "font_class": "xihuan",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "5777734",
+      "name": "五角星",
+      "font_class": "start",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "7105902",
+      "name": "下箭头",
+      "font_class": "genduo",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "771212",
+      "name": "酒店",
+      "font_class": "jiudian",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "2666978",
+      "name": "房子",
+      "font_class": "fangzi",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "3798510",
+      "name": "飞机",
+      "font_class": "feiji",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "7261537",
+      "name": "问号/感叹号",
+      "font_class": "iconcopy",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "5485343",
+      "name": "左箭头",
+      "font_class": "arrow-left",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "6751997",
+      "name": "地球",
+      "font_class": "diqiu",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "8713968",
+      "name": "01-地点",
+      "font_class": "-didian",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "10096953",
+      "name": "火",
+      "font_class": "huo",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "10762362",
+      "name": "右箭头",
+      "font_class": "iconfontyoujiantou-copy-copy-copy-copy-copy",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}

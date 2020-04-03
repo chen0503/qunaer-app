@@ -1,0 +1,14 @@
+i{
+  font-family:"iconfont";
+  font-style:normal;
+}
+.clearfix:before,.clearfix:after{
+  display: table;
+  content: "";
+}
+.clearfix:after{
+  clear: both;
+}
+.clearfix{
+  *zoom: 1;
+}
